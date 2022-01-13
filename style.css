@@ -1,0 +1,6 @@
+.hero {
+  min-height: 50vh;
+  background-image: url('img/surfers.jpg');
+  background-size: cover;
+  background-position: center;
+}
